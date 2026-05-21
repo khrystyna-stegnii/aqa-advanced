@@ -1,0 +1,10 @@
+let text = 'Hello, World!';
+let number = 42;
+let boolean = true;
+let nullValue = null;
+let undefinedValue = undefined;
+console.log('This is a String:', text);
+console.log('This is a Number:', number);
+console.log('This is a Boolean:', boolean);
+console.log('This is a Null:', nullValue);
+console.log('This is an Undefined:', undefinedValue);
