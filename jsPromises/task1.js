@@ -8,4 +8,4 @@ function timeOutMessage(phrase, time) {
 }
 
 timeOutMessage('This task is completed in 4 seconds', 4000);
- const test = 1;
+ const test =10;
