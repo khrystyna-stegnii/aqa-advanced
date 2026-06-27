@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const axios = require('axios');
 
 describe('API Tests for GET Books Requests', () => {

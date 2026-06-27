@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const axios = require('axios');
 
 test('Generate a token', async () => {
